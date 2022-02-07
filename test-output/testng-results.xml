@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-02T20:48:39 IST" name="Default Suite" finished-at="2022-02-02T20:49:04 IST" duration-ms="24467">
+    <groups>
+    </groups>
+    <test started-at="2022-02-02T20:48:39 IST" name="Selenium_demo_session" finished-at="2022-02-02T20:49:04 IST" duration-ms="24467">
+      <class name="Selenium_demo.Demo_topics">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:Selenium_demo.Demo_topics@63429932]" started-at="2022-02-02T20:48:39 IST" name="beforetest" finished-at="2022-02-02T20:49:01 IST" duration-ms="21996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="Classname()[pri:0, instance:Selenium_demo.Demo_topics@63429932]" started-at="2022-02-02T20:49:01 IST" name="Classname" finished-at="2022-02-02T20:49:01 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Classname -->
+        <test-method signature="id()[pri:1, instance:Selenium_demo.Demo_topics@63429932]" started-at="2022-02-02T20:49:01 IST" name="id" finished-at="2022-02-02T20:49:01 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- id -->
+        <test-method signature="AbsXpath()[pri:2, instance:Selenium_demo.Demo_topics@63429932]" started-at="2022-02-02T20:49:01 IST" name="AbsXpath" finished-at="2022-02-02T20:49:02 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AbsXpath -->
+        <test-method signature="RelativeXpath()[pri:3, instance:Selenium_demo.Demo_topics@63429932]" started-at="2022-02-02T20:49:02 IST" name="RelativeXpath" finished-at="2022-02-02T20:49:03 IST" duration-ms="1757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RelativeXpath -->
+        <test-method signature="tagname()[pri:4, instance:Selenium_demo.Demo_topics@63429932]" started-at="2022-02-02T20:49:03 IST" name="tagname" finished-at="2022-02-02T20:49:04 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tagname -->
+      </class> <!-- Selenium_demo.Demo_topics -->
+    </test> <!-- Selenium_demo_session -->
+  </suite> <!-- Default Suite -->
+</testng-results>
